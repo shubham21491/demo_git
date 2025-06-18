@@ -2,4 +2,5 @@ i have now change somthing in second file
 <<<<<<< HEAD
 hee hee
 second day added
+another fixing for new mode
 
