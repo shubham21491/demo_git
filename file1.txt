@@ -1,4 +1,8 @@
 hello spark18
 i am shubham
+<<<<<<< random
+fixing required
+=======
 git
 gitting
+>>>>>>> master
